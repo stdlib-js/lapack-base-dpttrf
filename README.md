@@ -40,7 +40,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dpttrf from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@esm/index.mjs';
+import dpttrf from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@v0.1.0-esm/index.mjs';
 ```
 
 #### dpttrf( N, D, E )
@@ -157,7 +157,7 @@ dpttrf.ndarray( 3, D, 1, 1, E, 1, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dpttrf from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@esm/index.mjs';
+import dpttrf from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
