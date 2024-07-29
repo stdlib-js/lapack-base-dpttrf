@@ -42,7 +42,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-dpttrf = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@umd/browser.js' )
+dpttrf = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@v0.1.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -54,7 +54,7 @@ var dpttrf = require( 'path/to/vendor/umd/lapack-base-dpttrf/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@v0.1.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -179,7 +179,7 @@ dpttrf.ndarray( 3, D, 1, 1, E, 1, 1 );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dpttrf@v0.1.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
