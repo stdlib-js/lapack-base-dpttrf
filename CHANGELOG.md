@@ -2,9 +2,19 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2024-08-01)
+## 0.1.0 (2024-07-29)
+
+<section class="features">
+
+### Features
+
+-   [`0630400`](https://github.com/stdlib-js/stdlib/commit/0630400bbf2b87197035c768e37a9ec6430db6b8) - add `lapack/base/dpttrf` [(#2578)](https://github.com/stdlib-js/stdlib/pull/2578)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,7 +22,7 @@
 
 <details>
 
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+-   [`0630400`](https://github.com/stdlib-js/stdlib/commit/0630400bbf2b87197035c768e37a9ec6430db6b8) - **feat:** add `lapack/base/dpttrf` [(#2578)](https://github.com/stdlib-js/stdlib/pull/2578) _(by Pranav Goswami, Athan Reines)_
 
 </details>
 
@@ -24,23 +34,14 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Pranav Goswami
 
 </section>
 
 <!-- /.contributors -->
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.1.0">
-
-## 0.1.0 (2024-07-29)
-
-No changes reported for this release.
 
 </section>
 
