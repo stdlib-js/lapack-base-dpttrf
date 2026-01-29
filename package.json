@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/lapack-base-dpttrf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compute the `L * D * L^T` factorization of a real symmetric positive definite tridiagonal matrix `A`.",
   "license": "Apache-2.0",
   "author": {
