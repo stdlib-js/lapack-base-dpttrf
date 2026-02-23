@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`208c5bf`](https://github.com/stdlib-js/stdlib/commit/208c5bf44bb87460a2a310e593193970c0366455) - **bench:** refactor to use string interpolation in `lapack/base/dpttrf` [(#10103)](https://github.com/stdlib-js/stdlib/pull/10103) _(by Prajjwal Bajpai)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prajjwal Bajpai
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.2">
 
 ## 0.1.2 (2026-02-07)
